@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #501010 !important;
+}
+
+h1.titulo {
+    font-family: 'Righteous', cursive;
+    color: #c12c2c;
+    text-align: center;
+}
+
+h2 {
+    color: #c12c2c;
+}
+
+.button-div {
+    margin: 0 auto;
+}
+
+.button-div button {
+    background-color: #c12c2c;
+    color: white;
+}
+
+.button-div button:hover {
+    background-color: #c12c2c;
+    color: white;
+}
